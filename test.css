@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.box {
+  padding: 20px;
+  background-color: brown;
+  width: 110px;
+}
+.box2 {
+  background-color: blueviolet;
+}
+.box3 {
+  background-color: burlywood;
+}
